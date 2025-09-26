@@ -11,7 +11,7 @@
             //teha vooskeem e flowchart sellest rakendusest 
             if (number == 1)
             {
-                Console.WriteLine("Sisestasid numbri 1");
+                Console.WriteLine("Ma olen 100% kindel, et sa sisestasid numbri 1");
             }
             else if (number == 2)
             {
