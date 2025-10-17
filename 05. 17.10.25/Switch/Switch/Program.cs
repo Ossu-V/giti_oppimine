@@ -23,7 +23,7 @@
 
                 default:
                     Console.WriteLine("Muu täht");
-                    break;
+                    break; 
             }
         }
     }
