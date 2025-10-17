@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Genereerib numbreid ühest kuni kuueni");
-            string input = Console.ReadLine();
 
             //kõik kuus numbrit tuleb ära käsitleda switchiga 
             int cube = new Random().Next(1, 7);
