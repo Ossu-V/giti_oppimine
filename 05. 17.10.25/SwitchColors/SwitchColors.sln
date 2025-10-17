@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchColors", "SwitchColors\SwitchColors.csproj", "{34165398-39B9-49DA-B474-2C69A47ED56A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34165398-39B9-49DA-B474-2C69A47ED56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34165398-39B9-49DA-B474-2C69A47ED56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34165398-39B9-49DA-B474-2C69A47ED56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34165398-39B9-49DA-B474-2C69A47ED56A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CFAD8E9-62D3-469A-9538-DFC557D8B2FB}
+	EndGlobalSection
+EndGlobal
