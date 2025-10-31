@@ -40,7 +40,13 @@
                 case "Delegates":
                     category = "Advanced";
                     break;
+
+                default:
+                    category = "ERROR";
+                    break;
             }
+            Console.WriteLine("Category is " + category);
+
         }
     }
 }
