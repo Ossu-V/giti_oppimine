@@ -18,7 +18,7 @@
                     Console.WriteLine("Sisestasid numbri 10");
                     break;
 
-                case 2:
+                case 20:
                     Console.WriteLine("Sisestasid numbri 20");
                     break;
 
