@@ -33,30 +33,22 @@
                 case "*":
                     result = num1 * num2;
                     break;
-                
-
-
-            }
-            Console.WriteLine("Vastus = " + result);
-            switch (operation)
-            {
                 case "/":
-
-                    if (num1 == 0)
+                    if (num2 == 0)
                     {
-                        Console.WriteLine("Nulliga ei saa jagada ERROR");
-                    }
-                    else if (num2 == 0)
-                    {
-                        Console.WriteLine("Nulliga ei saa jagada");
+                        Console.WriteLine("Nulliga jagamine ei ole lubatud!");
                     }
                     else
                     {
-                        Console.WriteLine("Vastus = ERROR");
+                        Console.WriteLine($"Tulemus: {num1 / num2}");
                     }
-                    result = num1 / num2;
+                    break;
+
+                default:
+                    Console.WriteLine("Tundmatu tehe!");
                     break;
             }
+            
         }
     }
 }
