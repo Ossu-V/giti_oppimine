@@ -11,8 +11,10 @@
             do
             {
                 Console.WriteLine(number);
+                //suurendab numbrit ühe võrra ehk number +1 
                 number++;
-            }while (number <= 5);
+                //kui number on väiksem või võrdne 5-ga, siis jätkub tsüklit
+            } while (number <= 5);
         }
     }
 }
