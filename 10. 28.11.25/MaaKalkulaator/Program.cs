@@ -18,8 +18,6 @@
             double howManyCoins = aroundEarth / coinDiameter;
 
             Console.WriteLine("Kahe euroseid läheb ümber maa {0:0}", howManyCoins);
-
-
         }
     }
 }
