@@ -1,6 +1,4 @@
-﻿using System.Threading.Channels;
-
-namespace ForLoopMultiplicationTable
+﻿namespace ForLoopMultiplicationTable
 {
     internal class Program
     {
