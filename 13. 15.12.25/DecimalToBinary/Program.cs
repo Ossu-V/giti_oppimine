@@ -9,6 +9,7 @@
             Console.WriteLine("Sisesta number: ");
             int num = Convert.ToInt32(Console.ReadLine());
             string binaryNumber = "";
+
             while (num > 0)
             {
                 int reminder = num % 2;
