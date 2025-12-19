@@ -37,6 +37,12 @@
                 }
                 Console.WriteLine();
             }
+            double roundArea = Math.PI * (radius * radius);
+            double roundPerimeter = 2 * Math.PI * radius;
+
+            Console.WriteLine("Ringi ümbermõõt on: " + roundPerimeter);
+            Console.WriteLine("Ringi pindala on: " + roundArea);
+            Console.ReadKey();
         }
     }
 }
