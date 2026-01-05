@@ -4,6 +4,18 @@
     {
         static void Main(string[] args)
         {
+            /*
+             Ülesanne 4
+             >>>>>>>>>>
+             Koer, kass, jänes, sipelgasiil ja lendorav hakkasid vaidlema, 
+             kellel on kõige pikem nimetus. Koosta programm, kus on antud loomanimede järjend.
+             Loo funktsioon, mis saab argumendina ette looma nime ning tagastab (mitte ei trüki!) 
+             selle pikkuse. Lase programmil kutsuda funktsiooni välja
+             iga loomanimede järjendi elemendiga ning trükib ekraanile nime pikkuse. 
+             Pärast pikkuste kontrollimist peab programm väljastama kõige pikema loomanime
+             (võrdsete pikkuste puhul võib esitada vaid ühe pikimatest).'
+             */
+
             //1. masiivi tegemine
             string[] animalName = { "Koer", "Kass", "Jänes", "Sipelgas", "Lendorav" };
 
